@@ -8,6 +8,7 @@ public class Main{
         task6();
         task7();
         task8();
+        System.out.println(" Домашнее задание №2 ");
         }
      public static void task1() {
         var dog=8.0;
